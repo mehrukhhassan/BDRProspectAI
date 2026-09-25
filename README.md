@@ -76,14 +76,15 @@ Full sample briefs are in [`/samples`](./samples).
 ## Repo structure
 
 ```
-/README.md
-/prompts/agent-instructions.md   Dust agent instructions
-/samples/ramp.md
-/samples/retool.md
-/samples/ramp-verification-audit.md
-/samples/gong.md
-/samples/hebbia.md
+- [README.md](./README.md): project overview
+- [prompts/agent-instructions.md](./prompts/agent-instructions.md): Dust agent instructions
+- [samples/ramp.md](./samples/ramp.md)
+- [samples/retool.md](./samples/retool.md)
+- [samples/retool-verification-audit.md](./samples/retool-verification-audit.md)
+- [samples/gong.md](./samples/gong.md)
+- [samples/hebbia.md](./samples/hebbia.md)
 ```
+
 
 ## Disclaimer
 
